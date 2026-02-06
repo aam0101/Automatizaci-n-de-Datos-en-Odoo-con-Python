@@ -86,9 +86,10 @@ La captura incluida muestra:
 - pgAdmin con los datos cargados.
 - Barra de tareas o reloj visible.
   
-(Captura de pantalla 2026-02-06 124517.png)
+![Ejecución del script y verificación en pgAdmin](Captura de pantalla 2026-02-06 124517.png)
 
 (Captura de pantalla 2026-02-06 124602.png)
+
 ---
 
 ## ✅ Conclusión

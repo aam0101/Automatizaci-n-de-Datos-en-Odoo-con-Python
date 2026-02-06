@@ -85,7 +85,10 @@ La captura incluida muestra:
 - Terminal de VS Code con ejecución exitosa.
 - pgAdmin con los datos cargados.
 - Barra de tareas o reloj visible.
+  
+(Captura de pantalla 2026-02-06 124517.png)
 
+(Captura de pantalla 2026-02-06 124602.png)
 ---
 
 ## ✅ Conclusión
